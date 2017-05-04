@@ -5,7 +5,7 @@
 import java.util.LinkedList;
 import java.util.ListIterator;
 
-////jhgjhgjghhjg
+////jhgjhgjghhjg  2424242424
 
 public class TestLinkedList {
 
